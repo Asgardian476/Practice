@@ -1,0 +1,24 @@
+body{
+    color: #f00;
+    padding: 10px;
+    padding: 10%;
+    padding: 10em;
+    padding-right: 10rem;
+    margin: 20px;
+    margin-left: 20px;
+    top: 20px;
+    display: block;
+    display: inline;
+    display: inline-block;
+    width: 300px;
+    text-align: justify;
+    display: none;
+    display: flex;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 34px;
+    padding-right: 15px;
+    margin-left: 10px;
+}

@@ -1,0 +1,29 @@
+{
+    "users": 
+    [
+        {
+        "Name": "John",
+        "age": 30,
+        "Address":{
+            "street": "123 lincoln road",
+            "city": "huston",
+            "state": "tv"
+        },
+        "shoppingList": ["milk","eggs","Bread"],
+        "email":"john345@gmail.com",
+        "phone":8795642130
+        },       
+        {
+        "Name": "Mary",
+        "age": 30,
+        "Address":{
+            "street": "456 lincoln road",
+            "city": "Dallas",
+            "state": "io"
+        },
+        "shoppingList": ["juice","salsa","Orgies"],
+        "email":"mary451gmail.com",
+        "phone":8591648930
+        }
+    ]
+}
